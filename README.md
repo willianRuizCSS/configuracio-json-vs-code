@@ -1,0 +1,1 @@
+# configuracio-json-vs-code
